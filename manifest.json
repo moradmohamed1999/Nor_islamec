@@ -1,11 +1,11 @@
 {
-  "name": "نور الإسلام - Nor Islamec",
-  "short_name": "Nor Islamec",
-  "start_url": ".",
+  "name": "Nor Islamec",
+  "short_name": "NorIslamec",
+  "start_url": "/Nor_islamec/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0056b3",
-  "orientation": "portrait-primary",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icon-512.png",
